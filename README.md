@@ -49,6 +49,7 @@ plt.show()
 ## Output:
 ![image](https://github.com/user-attachments/assets/b51c5540-cde0-46c1-8b65-b87437924a49)
 
+### Plot
 ![image](https://github.com/user-attachments/assets/1e42ba42-bae9-460c-88df-cc539e508f83)
 
 
